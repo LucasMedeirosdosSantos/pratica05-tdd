@@ -19,4 +19,11 @@ return a1 + a2 + a3;
             throw new IllegalArgumentException(nomeAvaliacao + " deve estar entre 0 e " + notaMaxima);
         }
     }
+    public String situacao(double notaFinal, double frequencia) {
+    if (notaFinal >= 70 && frequencia >= 75) {
+        return "APROVADO";
+    } else {
+        return "REPROVADO";
+    }
+}
 }
