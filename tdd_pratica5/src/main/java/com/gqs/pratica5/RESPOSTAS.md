@@ -10,3 +10,4 @@ Melhorri a organização do código. Os testes foram executados novamente e cont
 Porque os testes definem o novo comportamento esperado antes de alterarmos o código.
 5- Qual ciclo foi o mais difícil para você, e por quê?
 Ciclo 6, porque foi necessário combinar várias condições de notas, frequência e operadores lógicos.
+<img width="2557" height="1440" alt="image" src="https://github.com/user-attachments/assets/6c959f28-bac8-4e20-8615-68b5343fe7fe" />
